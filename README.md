@@ -4,7 +4,7 @@
 
 <img height="350px" src="https://user-images.githubusercontent.com/102746846/189794459-e26d2307-4ce4-4601-a6b3-8d3deb6d711f.png">
 
-### [🎀 리본 바로가기 >](https://ribborn.kr)
+### [🎀 리본 바로가기 >](https://chahj.shop)
 
 
    
@@ -37,7 +37,7 @@
   리폼에 대한 지식을 공유할 수 있는 커뮤니티 서비스입니다.
 
 
-* 🤟[RIBBORN 서비스 바로가기](https://ribborn.kr/)
+* 🤟[RIBBORN 서비스 바로가기](https://chahj.shop/)
 * 👀[서비스 시연 및 발표 영상 보러가기](유튜브 링크)
 
 <br>
