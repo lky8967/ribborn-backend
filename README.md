@@ -87,7 +87,7 @@
   
 > **문제** : User, Post, Contents, Comment 엔티티는 N:1 맵핑이 되어있기 때문에 호출 시 N + 1 문제를 야기할 수 있음
 >
-> **해결** : 데이터를 Flat하게 조회해야 할 경우에는 Repository에서 DTO를 바로 생성하여 리턴했으나, 해당 방법은 페이징 처리가 되지 않기 때문에 페이징이 필요한 Comment는 API를 분리해서 따로 페이징 처리를 했음
+> **해결** : fetch = FetchType.LAZY 설정으로 LAZY 로딩을 하면 N+1 문제는 발생하지 않습니다. 
   
 </details>
 <details>
